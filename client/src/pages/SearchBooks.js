@@ -70,7 +70,7 @@ class SearchBooks extends Component {
         return (
             <div className="searchBooksPage" style={bgImgStyle}>
             <Container fluid>
-                <Jumbotron>
+                <Jumbotron fluid>
                     <h1 className="text-white">Find Your Favorite Books with GoogleBook </h1>
                 </Jumbotron>
                 <Container>

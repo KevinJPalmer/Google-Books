@@ -7,7 +7,7 @@ function NoMatch() {
     <Container fluid>
       <Row>
         <Col size="md-12">
-          <Jumbotron>
+          <Jumbotron fluid>
             <h1 className="text-white">404 Page Not Found</h1>
 
             <h1><span role="img" aria-label= " em em-open_mouth">

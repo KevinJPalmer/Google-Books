@@ -1,7 +1,7 @@
 import React from "react";
 
 const Jumbotron_color =  {
-  height: 300,
+  height: 100%,
   clear: "both",
   paddingTop: 120,
   textAlign: "center",

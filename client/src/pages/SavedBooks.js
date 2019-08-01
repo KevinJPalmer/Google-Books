@@ -30,8 +30,8 @@ class SaveBook extends Component {
     render() {
         return (
             <div className="searchBooksPage" style={bgImgStyle}>
-            <Container fluid className="container">
-                <Jumbotron>
+            <Container fluid>
+                <Jumbotron fluid>
                 <h1 className="text-white">Saved Books</h1>
                 </Jumbotron>
 
