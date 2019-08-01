@@ -7,10 +7,6 @@ const Jumbotron_color =  {
   backgroundColor :  '#000'
 }
 
-{[{}]
-  backgroundcolor :  '#000'
-
-//   }
 
 function Jumbotron({ children }) {
   return (
