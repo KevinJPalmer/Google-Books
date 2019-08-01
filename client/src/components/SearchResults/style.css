@@ -1,0 +1,21 @@
+.card{
+  border-radius: 10px;
+  background-color: #F0E68C
+
+}
+
+.search-list{
+  border-radius: 15px;
+  background-color: #FF4500
+
+}
+
+.saveBook {
+  border-radius: 5px;
+  margin-left: 10px
+}
+
+.viewBook {
+  border-radius: 5px;
+  margin-left: 5px
+}
