@@ -5,9 +5,9 @@ import { Container} from "../components/Grid";
 import SavedResult from "../components/SavedResults"
 import bgImg from "../img/bgImg.jpg";
 
-const bgImgStyle = {
-    backgroundImage :  `url(${bgImg})`
-}
+// const bgImgStyle = {
+//     backgroundImage :  `url(${bgImg})`
+// }
 class SaveBook extends Component {
     state = {
         savedBooks: []
